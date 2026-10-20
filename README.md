@@ -1,6 +1,6 @@
 # ProofOfNeed: Prove your need, not your income
 
-[![CI](https://github.com/themlie/stellarMidnight-ProofOfNeed/actions/workflows/ci.yml/badge.svg)](https://github.com/themlie/stellarMidnight-ProofOfNeed/actions/workflows/ci.yml)
+[![CI](https://github.com/ssenasahin/stellarMidnight-ProofOfNeed/actions/workflows/ci.yml/badge.svg)](https://github.com/ssenasahin/stellarMidnight-ProofOfNeed/actions/workflows/ci.yml)
 
 *İhtiyacını kanıtla, gelirini söyleme.*
 
@@ -96,7 +96,7 @@ The compiler version matters. The stable Midnight SDK (midnight-js 4.x) uses com
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/themlie/stellarMidnight-ProofOfNeed.git
+git clone https://github.com/ssenasahin/stellarMidnight-ProofOfNeed.git
 cd stellarMidnight-ProofOfNeed
 npm install
 npm --prefix frontend install

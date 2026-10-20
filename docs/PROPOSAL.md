@@ -2,7 +2,7 @@
 
 **Chosen idea from the list:** Age / Eligibility Gate, "prove a threshold without revealing the underlying value".
 
-**Repository:** https://github.com/themlie/stellarMidnight-ProofOfNeed
+**Repository:** https://github.com/ssenasahin/stellarMidnight-ProofOfNeed
 **Live demo:** https://stellar-midnight-proof-of-need-sfh6.vercel.app/
 **Contract (Midnight Preprod):** `6ec4f7700d5ae009284841ceab24340e6601fec42b0f12a9bbb48f9ae85e3d44`
 
